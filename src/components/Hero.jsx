@@ -44,7 +44,7 @@ function Hero() {
 
             <a
               href="/Varadraj_Velhal_Resume.pdf"
-              download
+              download = "Varadraj_Velhal_Resume.pdf"
               className="border border-slate-600 px-6 py-3 rounded-lg hover:border-sky-400"
             >
               Resume
